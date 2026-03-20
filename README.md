@@ -12,3 +12,11 @@
 - Tạo nhánh chính bằng `git branch -M main`. 
 - Kết nối với github: `git remote add origin <url>` . Trước đó thì cần tạo một repo trên Github rồi dán url vào. 
 - Cuối cùng là đẩy code lên github bằng `git push -u origin main`. 
+
+
+Lưu ý là phải thêm file `.gitignore` trước khi chạy `git add.` 
+
+
+## Test app
+Toàn bộ thư mục App được mình prompt phục vụ cho mục đích test deploy AWS. 
+
